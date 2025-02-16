@@ -1,0 +1,3 @@
+This is a modified version of the stack allocator. It works with two pointers instead of one, where each pointer is on each head. The idea here is that having two different pointers lets one use memory more efficiently by dividing what is stored where. One example is in the game Hydro Thunder, where a double ended stack was used. One side was used for the loading and unloading of levels, whereas the other end was used for the temporary memory need during frame change.
+
+Parent: [[Stack Allocator]]

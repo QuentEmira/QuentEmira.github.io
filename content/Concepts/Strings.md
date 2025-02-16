@@ -1,0 +1,2 @@
+Strings here just refers to a series or sequence of characters. In C++, or C#, there is a separate struct called string. This works for normal cases, but is considered to be inefficient when to comes to intensive tasks. For these reasons, char arrays are used instead of strings.
+[[Internationalization and Localization]]

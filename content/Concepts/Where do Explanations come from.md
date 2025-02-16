@@ -1,0 +1,5 @@
+- Explanations arrive as conjecture, from the imagination of human beings.
+- They are not derived from [[Empiricism]]. It is not derived from our senses.
+- Any explanation must be open to criticism.
+- [[Fallibilism]] is the way to go.
+- Experiments are done to choose and confirm explanations, not to discover or create them. [[Inductivism]] is not the basis for new explanations to be created. This also means that the repetition of certain phenomena does not confirm an explanation, but rather merely fails to deny the theory.

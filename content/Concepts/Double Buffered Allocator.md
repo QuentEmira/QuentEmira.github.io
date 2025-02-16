@@ -1,0 +1,3 @@
+This is an allocator to store the memory for the current frame, and the next frame. The implementation is very simple. We take two stacks, and use each alternatively. Frame 1, stack 1, frame 2, stack 2, frame 3, stack 1, frame 4, stack 2 and so on. By this way, stack 1 has the memory used by frame 1, which can now be used during frame 2, while storing the new memory in the stack 2, that is used in frame 3. This way, it is used across frames.
+
+The stacks are just [[Stack Allocator|Stack Allocators]]

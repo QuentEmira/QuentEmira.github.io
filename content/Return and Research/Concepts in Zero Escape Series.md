@@ -1,0 +1,23 @@
+- Morphogenetic Field Theory - a moment where the idea floats to brain, and a sense of danger
+- Game Theory
+- Prisoner's Dilemma
+- Anthropic something
+- Ice - 9
+- Many world interpretation
+- Toxoplasmosis
+- The future, affecting the past
+- Schrodinger's Cat
+- Cloning
+- Robots
+- Cyber arms
+- Reverie Syndrome
+- Radical - 6
+- Moon Base
+- the mind is not in the body, is somewhere else.
+- when a koi fish in an aquarium are transported long distance, most of them die. But if you add a Piranha to the aquarium, almost all of them survive. The self preservation instinct kicks in.
+- Sleeping Beauty Paradox
+- Metempsychosis
+- Alien Hand Syndrome
+- Stabat mata dolorosa?
+- Monty Hall Problem
+- Ganzfeld Experiment

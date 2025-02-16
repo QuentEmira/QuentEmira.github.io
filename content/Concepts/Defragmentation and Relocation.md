@@ -1,0 +1,7 @@
+Defragmentation is the process of shifting the occupied spaces of memory to lower addresses, and thus shifting empty spaces to higher addresses. The result is that the free space is clubbed together, available for use. This process in itself is simple, where if we encounter free space, the next allocated memory address is found and shifted back to the free space, basically causing a kind of bubbling effect for the free space.
+
+![[Pasted image 20240822105819.png|700]]
+
+This does have a problem. What about the pointers that point to the allocated memory space? After defragmentation, they would become invalid. This where relocation comes in.
+
+Relocation is the changing of pointers to match the new locations of the allocated memory blocks. This is a hard thing to do, as there is not global way to get all pointers, and be able to easily change them. For this, alternatives to pointers such as smart pointers and handles are used. Smart pointers are classes that contain a pointer, and are present in a linked list for easy access and thus easy updating. Handles are the indices to a table, which maps each index to a pointer. Changing the pointer here is easy, and doesn't require a change in the program, as they use the index instead.

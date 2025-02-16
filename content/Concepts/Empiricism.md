@@ -1,0 +1,1 @@
+The theory that all knowledge is based on experience derived from our senses.

@@ -1,0 +1,4 @@
+- An explanation for any observed phenomena must be open to criticism.
+- A good explanation is hard to vary without ruining the explanation itself
+- Any explanation must be simple. Anything superfluous, excessive must be excised. This is Occam's Razor
+- The reach of an explanation is an intrinsic property of said explanation, so an external assumption of application

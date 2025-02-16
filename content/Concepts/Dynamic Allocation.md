@@ -1,0 +1,5 @@
+Conceptually, dynamic allocation reserves memory during runtime, allowing programs to be able to use an unspecified amount of memory as required by the task. This helps in saving space (as memory that is not used in a static allocation scenario is never used in dynamic allocation), and also being able to use more space in case it is necessary.
+
+This also has its disadvantages. One is the fact that the algorithm used for dynamic allocation needs is made to word for any amount of memory, and thus cannot be as optimized as a static allocation memory handler can be. Second, this is probably specific to C and family, but the memory allocation methods used as inefficient because of the inherent context switch that happens for the success of these methods (this is where that function has to context switch from user to kernel to allocate memory, and then switch back to user for the rest of the program).
+
+So, in game programming, static allocators, or custom allocators are used as they save the little amounts of time that might make an impact. Down below, some custom allocators are mentioned.

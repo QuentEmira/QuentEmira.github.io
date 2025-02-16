@@ -1,0 +1,1 @@
+This here will contain my thoughts and theories for the game.

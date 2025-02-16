@@ -1,0 +1,6 @@
+[[Chekov's Gun]]
+[[False Dichotomy]]
+[[Flipping the chessboard]]
+[[Mechanical Context]]
+[[Reversal]]
+[[The Peter Priniciple]]

@@ -1,0 +1,3 @@
+A stack allocator is very simple. A contiguous fixed part of memory, reserved for the program, which in itself acts like a stack. So, we have the array, and a pointer to point the top of the stack. We are also aware where the stack begins, and either the total amount of memory, or where the stack ends. Any allocation for is done at the top of the stack. Any deallocation is also done at the top of the stack.
+
+Variant: [[Double-Ended Stack Allocator]]

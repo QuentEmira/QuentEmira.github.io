@@ -1,0 +1,4 @@
+Generally implemented using a [[Stack Allocator|stack allocator]], a single frame allocator is just memory allocated, that is available for only that frame. At the end of that frame, the memory used is freed, made ready for the next frame. All we need is a stack, that stores it in memory. At the start of every frame, the head pointer is brought back to the base.
+
+This is generally lightning fast. And the principle itself is simple, that it can be implemented easily.
+The only drawback, which is also an added restraint, is that it doesn't share memory across frames, and thus the programmer must not accidently use this stack to store something across frames.

@@ -1,0 +1,1 @@
+The proposition that there is no way of saying for certain that any piece of knowledge is true or probable. No authority can confirm this.
