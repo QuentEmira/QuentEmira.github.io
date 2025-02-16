@@ -16,10 +16,10 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "quentemira.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", ".smart-env", "Hrithikesh", ".trash", ".gitattributes"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
