@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "QuentEmira",
+    pageTitle: "Hrithik's Site",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quentemira.github.io",
+    baseUrl: "hrithik-c.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", ".smart-env", "Hrithikesh", ".trash", ".gitattributes"],
     defaultDateType: "created",
     generateSocialImages: true,
